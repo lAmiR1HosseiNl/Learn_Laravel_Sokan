@@ -1,0 +1,11 @@
+1-Convet Query BUilder To Eloquent + Migrations
+2-Excel Weekly Author Info , Tags , Likes Count Path For See List Of Excels , Download For Admin 
+3-Comment On User Blogs And Show Comments Near Blogs , Likes Comments
+4-First Create The Post Or Edit The Post Then User Set Time For Blog To Share -> Only Author And Admin Can See TheUnshared Posts
+5-One User Can Only Post Five Blog Per Day
+6-After Each Blog Shared Send Notif To All User Not Author , Email Contains : Name , Email , Topic , Path Of Post
+,Save Notifs Of In DB , List Of Notif For Each User
+7-Create One Endpoint To Call One Api And Return In Formate
+8- +1 = Create Feature Test For Blog Crud 
+9- +2 = Author Role And Create Path For Admin Count Some Of Users As Author So Only Author Can Create Edit The Post 
+10- +3 = Comments On Comments 

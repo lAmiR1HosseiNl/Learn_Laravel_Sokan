@@ -1,0 +1,13 @@
+YT : kristoferkhosravi
+=======================
+issue 3 = Project 3
+3.1 =  create migration 
+3.2 =  create signup api
+3.3 =  create login api 
+3.4 =  create Blog api
+3.5 =  create Blog Edit api
+3.6 =  creation show Blogs and Likes api
+3.7 =  creation api for the people who likes the specefic blog
+3.8 =  creation api for count all tags
+3.9 =  creation path for admin to get csv file all blogs
+
