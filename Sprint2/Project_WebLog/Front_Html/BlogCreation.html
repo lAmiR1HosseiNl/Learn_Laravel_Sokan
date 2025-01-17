@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="fa">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Blog Creation</title>
+                <H1><center><dev>به صفحه ساخت بلاگ خوش آمدید</dev></center></H1>
+                <H3><center><dev><a href="../Back_Php/index.php" style="margin: 0 0 0 0;">خانه</a> </dev></center></H3>
+
+    </head>
+        <body>
+            <div style="margin-top:5px; direction: rtl; display: flex; justify-content: center; align-items: center; list-style: none;">
+                <form action="../Back_Php/BlogCreation.php" method="post" >
+                    <h2>
+                        <p>
+                            عنوان:
+                            </br>
+                            <input 
+                                style="margin-bottom: 50px;" type="text" name="topic">
+                            </input>
+                        </p>
+                    </h2>
+                    <h2>
+                        <p>
+                            بدنه:
+                                </br>
+                            <textarea style="height: 200px; width: 200px; margin-bottom: 50px;" name="body"></textarea>
+                        </p>
+                    </h2>
+                    <h2>
+                        <p>
+                            تگ ها:
+                            </br>
+                            <input 
+                                style="margin-bottom: 50px;" type="text" name="tags">
+                            </input>
+                        </p>
+                    </h2>
+                    <center><input type="submit" style="width: 100px;" value="ثبت بلاگ" name="Weblogcreation"></input></center>
+                </form>
+            </div>
+        </body>
+</html>
